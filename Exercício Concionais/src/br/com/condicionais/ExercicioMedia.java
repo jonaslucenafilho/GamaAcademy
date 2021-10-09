@@ -1,29 +1,32 @@
 package br.com.condicionais;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class ExercicioMedia {
 
 	public static void main(String[] args) {
 		
+		Locale.setDefault(new Locale("en", "US"));
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite a primeira nota: ");
-		int nota1 = sc.nextInt();
+		double nota1 = sc.nextDouble();
 		
 		System.out.println("Digite a segunda nota: ");
-		int nota2 = sc.nextInt();
+		double nota2 = sc.nextDouble();
 		
 		double media = (nota1 + nota2) / 2;
 		
 		if (media == 10) {
-			System.out.println("Aprovado com Distinção");
+			System.out.printf("Aprovado com Distinção, média %.2f", media);
 		} else if (media >= 7) {
-			System.out.println("Aprovado");
+			System.out.printf("Aprovado com média %.2f", media);
 		} else {
-			System.out.println("Reprovado");
+			System.out.printf("Reprovado com média %.2f", media);
 		}
-		
+				
 		sc.close();
 	}
 }
