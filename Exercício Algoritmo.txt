@@ -1,0 +1,92 @@
+Exercícios Algoritmo:
+1. Faça um algoritmo que mostre o passo a passo para trocar uma de lâmpada queimada.
+	- Ligar o interruptor para ver se a lâmpada está queimada.
+	- Se estiver queimada, desligue o interruptor.
+	- Procure uma escada.
+	- Pegue a escada.
+	- Posicione a escada embaixo da lâmpada queimada.
+	- Abra a escada tesoura.
+	- Suba na escada.
+	- Desenrosque a lâmpada queimada.
+	- Desça da escada.
+	- Guarde a lâmpada velha.
+	- Pegue a lâmpada nova.
+	- Suba na escada.
+	- Enrosque a lâmpada nova.
+	- Desça da escada.
+	- Ligue o interruptor para certificar se a lâmpada está funcionando.
+	- Se estiver funcionando, desmonte a escada.
+	- Guarde a escada.
+	- Se não estiver, pegue uma lâmpada nova e refaça o processo.
+2. Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.
+	- Verificar se o clima está favorável para o passeio.
+	- Verifica se o animal está bem para o passeio.
+	- Pegue a coleira.
+	- Pegue seu animal de estimação.
+	- Coloque a coleira nele.
+	- Pegue ele no braço.
+	- Abra a porta da sua casa.
+	- Saia.
+	- Feche a porta da sua casa.
+	- Saia para a rua.
+	- Coloque seu animal de estimação no chão.
+	- Passeie com ele.
+	- Terminando o passeio coloque ele no braço.
+	- Volte para sua casa.
+	- Abra a porta de casa.
+	- Entre.
+	- Feche a porta de casa.
+	- Retire a coleira do animal.
+	- Coloque seu animal de estimação no chão.
+	- Guarde a coleira.
+3. Faça um algoritmo que mostre o passo a passo para acessar um computador.
+	- Puxe a cadeira.
+	- Sente na cadeira.
+	- Ligue a tomada do carregador do computador.
+	- Abra a tampa do notebook.
+	- Aperte o botão de power.
+	- Aguarde a inicialização.
+	- Na tela de login coloque seu pin.
+	- Aguarde a abertura da tela home do seu notebook.
+	- Utilize seu computador.
+	- Após utilizar, clique na opção de desligar.
+	- Aguarde ele encerrar o sistema operacional.
+	- Feche a tampa do notebook.
+	- Desligue o carregador da tomada.
+	- Levante da cadeira.
+	- Coloque a cadeira no local correto.
+4. Faça um algoritmo que mostre o passo a passo para lavar um copo
+	- Pegue o copo, se ele estiver limpo guarde o copo.
+	- Se estiver sujo pegue o copo.
+	- Abra a torneira.
+	- Enxague o copo.
+	- Feche a torneira.
+	- Pegue a buxa.
+	- Coloque detergente na buxa.
+	- Esfregue a buxa no interior do copo.
+	- Esfregue a buxa no exterior do copo.
+	- Guarde a buxa.
+	- Abra a torneira.
+	- Enxague o copo.
+	- Feche a torneira.
+	- Coloque o copo no escorredor.
+5. Faça um algoritmo que mostre o passo a passo para postar uma foto em um rede social
+	- Pegue seu celular.
+	- Desbloqueie seu celular.
+	- Verifique se está com internet.
+	- Abra a gaveta de aplicativos.
+	- Acesse o aplicativo de câmera.
+	- Se posicione para a selfie.
+	- Clique no botão para bater a foto.
+	- Feche o aplicativo da câmera.
+	- Abra a gaveta de aplicativos.
+	- Acesse o aplicativo da rede social.
+	- Na tela de login coloque seu email e senha.
+	- Validando prossiga, senão coloque a senha correta.
+	- Na tela home da rede social, clique no botão "+".
+	- Selecione para colocar uma foto da galeria do seu smartphone.
+	- Escolhe a foto recém tirada.
+	- Após o upload clique no botão postar.
+	- Feche o aplicativo da rede social.
+	- Bloqueie seu celular.
+	- Guarde seu celular.
