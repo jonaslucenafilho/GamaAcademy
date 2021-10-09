@@ -1,5 +1,6 @@
 package br.com.condicionais;
 
+import java.time.LocalDate;
 import java.util.Scanner;
 
 public class ExercicioVotacao {
@@ -11,9 +12,11 @@ public class ExercicioVotacao {
 		System.out.println("Digite o ano do seu nascimento: ");
 		int anoNascimento = sc.nextInt();
 		
-		if (2021 - anoNascimento >= 16 ) {
+		int anoAtual = LocalDate.now().getYear();
+		
+		if (anoAtual - anoNascimento >= 16 ) {
 			System.out.println("Você pode votar!");
-		} else if (2021 - anoNascimento <= 0) {
+		} else if (anoAtual - anoNascimento <= 0) {
 			System.out.println("Você nem nasceu ainda!");
 		} else {
 			System.out.println("Você não pode votar!");
