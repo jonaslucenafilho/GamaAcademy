@@ -27,7 +27,7 @@ public class ExercicioTresInteiros {
 			} else {
 				System.out.println("Os três números são iguais!");
 			}
-		} else if (segundoNumero >= terceiroNumero && segundoNumero >= primeiroNumero) {
+		} else if (segundoNumero >= terceiroNumero) {
 			System.out.println("O maior número é: " + segundoNumero);
 			if (primeiroNumero >= terceiroNumero) {
 				System.out.println("O menor número é: " + terceiroNumero);
